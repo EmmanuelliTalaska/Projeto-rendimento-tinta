@@ -1,0 +1,33 @@
+body{
+    background-image: url(../img/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: unset center;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+h2{
+    text-align: center;
+    padding-top: 45px;
+}
+div.fundo{
+    width: 300px;
+    height: 60px;
+    padding-left: 420px;
+    padding-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fundo{
+    width: 200px;
+    height: 200px;
+}
+.resp{
+    text-align: center;
+    padding-left: 180px;
+    padding-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
